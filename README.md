@@ -13,10 +13,9 @@
     <img src="images/recipe-logo.jpeg" alt="Recipe Logo for README" width="80" height="80">
   </a>
 
-  <h3 align="center">README For Recipes Project</h3>
+  <h3 align="center">Welcome to my Recipes Project!</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/aranu29/odin-recipes/wiki"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
@@ -69,8 +68,8 @@ This project is my rendition of the project "Recipes" from the Odin Projects's F
 
 ### Built With
 
-* [![HTML][HTML.com]][HTML-url]
-* [![CSS][HTML.com]][CSS-url]
+* [![HTML][HTML]][HTML-url]
+* [![CSS][CSS]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,5 +182,6 @@ Project Link: [https://github.com/aranu29/odin-recipes](https://github.com/aranu
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anuoluwa-akibu1/
 [HTML]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white
+[HTML-url]: https://html.com/
 [CSS]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff
-
+[CSS-url]: https://html.com/
