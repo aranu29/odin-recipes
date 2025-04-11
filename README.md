@@ -126,9 +126,8 @@ This is a beginner-level static website project for practicing:
 ## Roadmap
 
 - [x] Add back to top links
-- [ ] Add link to website
-- [ ] Add link to demo
-- [ ] Complete "Getting Started" section
+- [x] Add link to website
+- [x] Complete "Getting Started" section
 - [ ] Add changelog
 - [ ] Add license
 
