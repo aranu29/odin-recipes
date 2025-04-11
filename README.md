@@ -183,8 +183,8 @@ TBA
 <!-- CONTACT -->
 ## Contact
 
-* [![GitHub][github-shield]][github-url]
-* [![LinkedIn][linkedin-shield]][linkedin-url]
+- [![GitHub][github-shield]][github-url]
+- [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +209,7 @@ TBA
 [issues-url]: https://github.com/aranu29/odin-recipes/issues
 [license-shield]: https://img.shields.io/github/license/aranu29/odin-recipes.svg?style=for-the-badge
 [license-url]: https://github.com/aranu29/odin-recipes/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff
 [linkedin-url]: https://www.linkedin.com/in/anuoluwa-akibu1/
 [github-shield]: https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white
 [github-url]: https://github.com/aranu29/odin-recipes
