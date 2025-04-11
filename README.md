@@ -15,11 +15,9 @@
   <h3 align="center">Welcome to my Recipes Project!</h3>
 
   <p align="center">
-      <a href="https://aranu29.github.io/odin-recipes/" target="blank" rel="noopener noreferrer"><strong>Explore My Recipes Website »</strong></a>
+      <a href="https://aranu29.github.io/odin-recipes/" target="_blank" rel="noopener noreferrer"><strong>Explore My Recipes Website »</strong></a>
     <br />
     <br />
-        <a>View Demo</a> 
-        &middot;
         <a href="https://github.com/aranu29/odin-recipes/issues/new?template=bug_report.md">Report Bug</a>
         &middot;
         <a href="https://github.com/aranu29/odin-recipes/issues/new?template=feature_request.md">Request Feature</a>
@@ -97,7 +95,6 @@ git clone https://github.com/your-username/recipes.git
 ```
 
 2. **Navigate into the project folder**
-cd recipes
 
 3. **Open the main page in your browser**
 
