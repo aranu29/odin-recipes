@@ -16,7 +16,7 @@
   <h3 align="center">Welcome to my Recipes Project!</h3>
 
   <p align="center">
-    <a href="https://github.com/aranu29/odin-recipes/wiki"><strong>Explore the wiki »</strong></a>
+      <a href="https://aranu29.github.io/odin-recipes/"><strong>Explore My Recipes Website »</strong></a>
     <br />
     <br />
         <a>View Demo</a> 
@@ -79,15 +79,35 @@ Each recipe page highlights a unique dish, complete with a description, ingredie
 <!-- GETTING STARTED -->
 ## Getting Started
 
-TBA
+Follow these steps to clone, explore, and run the project locally on your machine.
 
 ### Prerequisites
+To get started, you’ll need the following:
 
-TBA
+- A modern web browser (e.g., Chrome, Firefox, Edge)
+- [Git](https://git-scm.com/) installed on your local machine (optional but recommended)
+- A code editor like [VS Code](https://code.visualstudio.com/)
 
 ### Installation
 
-TBA
+Follow the steps below to run the project locally:
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/recipes.git
+```
+
+2. **Navigate into the project folder**
+cd recipes
+
+3. **Open the main page in your browser**
+
+Option A: Open index.html directly from your file explorer
+
+Option B (Recommended): Use Live Server in VS Code
+- Open the folder in VS Code
+- Install the "Live Server" extension (if not already installed)
+- Right-click index.html and select "Open with Live Server"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,8 +116,12 @@ TBA
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-TBA
+This is a beginner-level static website project for practicing:
 
+1. Semantic HTML5
+2. CSS styling and layout
+3. Internal and external navigation using anchor tags
+4. Clean code structure and best practices
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
