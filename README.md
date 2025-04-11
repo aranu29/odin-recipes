@@ -60,8 +60,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is my rendition of the project "Recipes" from the Odin Projects's Foundations Course.
+This project is my take on the “Recipes” assignment from The Odin Project’s Foundations Course. It showcases a simple multi-page website built using HTML and CSS, featuring a collection of my favorite recipes. The goal of the project was to reinforce core web development concepts such as semantic HTML structure and hyperlinking between pages while having fun with food content. I added some styling with CSS.
 
+Each recipe page highlights a unique dish, complete with a description, ingredient list, and step-by-step instructions. This project served as a hands-on introduction to web development fundamentals and version control using Git. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -121,16 +122,21 @@ See the [open issues](https://github.com/aranu29/odin-recipes/issues) for a full
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are the heart of the open source community — they help us all learn, grow, and build together. Any improvements, big or small, are always welcome and **deeply appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Have an idea to make this project better?
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the Repository
+2. Create a New Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add AmazingFeature'`)
+3. Push to your Branch (`git push origin feature/AmazingFeature`)
+4. Open a Pull Request
+
+Prefer to suggest an enhancement instead? Feel free to open an issue and tag it with "enhancement".
+
+And if you like the project, don’t forget to ⭐ it — thanks for your support!
+
+
 
 ### Top contributors:
 
