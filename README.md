@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -16,7 +15,7 @@
   <h3 align="center">Welcome to my Recipes Project!</h3>
 
   <p align="center">
-      <a href="https://aranu29.github.io/odin-recipes/"><strong>Explore My Recipes Website »</strong></a>
+      <a href="https://aranu29.github.io/odin-recipes/" target="blank" rel="noopener noreferrer"><strong>Explore My Recipes Website »</strong></a>
     <br />
     <br />
         <a>View Demo</a> 
@@ -184,7 +183,8 @@ TBA
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/aranu29/odin-recipes](https://github.com/aranu29/odin-recipes)
+* [![GitHub][github-shield]][github-url]
+* [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,6 +211,8 @@ Project Link: [https://github.com/aranu29/odin-recipes](https://github.com/aranu
 [license-url]: https://github.com/aranu29/odin-recipes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anuoluwa-akibu1/
+[github-shield]: https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white
+[github-url]: https://github.com/aranu29/odin-recipes
 [HTML]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white
 [HTML-url]: https://html.com/
 [CSS]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff
