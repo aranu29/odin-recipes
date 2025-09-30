@@ -188,6 +188,7 @@ TBA
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+1. Inspired by angieblah (https://www.youtube.com/watch?v=62NJbICVWkQ)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
